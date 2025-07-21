@@ -77,7 +77,9 @@ a {
 
 .button:hover,
 .button:focus {
+  color: #fff;
   background-color: #404bbf;
+  cursor: pointer;
 }
 
 h2 {

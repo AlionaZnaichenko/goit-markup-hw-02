@@ -72,14 +72,16 @@ a {
   letter-spacing: 0.04em;
   text-align: center;
   color: #fff;
+  cursor: pointer;
   background-color: #4d5ae5;
 }
 
-.button:hover,
 .button:focus {
+  background-color: #404bbf;
+}
+.button:hover {
   color: #fff;
   background-color: #404bbf;
-  cursor: pointer;
 }
 
 h2 {
